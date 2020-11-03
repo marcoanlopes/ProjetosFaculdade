@@ -1,6 +1,0 @@
-A quantidade de alunos aprovados foram: 39
-A quantidade de alunos reprovados foram: 31
-O total de alunos na sala são: 70
-A media da turma foram: 5.62
-A menor nota da turma foram: 0.0
-A maior nota da turma foram: 10.0
